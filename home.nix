@@ -53,7 +53,6 @@
     # xorg.setxkbmap
     i3
     i3status
-    dmenu
     nitrogen
 
     # terminal
@@ -67,7 +66,9 @@
 
     # app
     kitty
+    alacritty
     firefox
+    rofi
   ];
 
   fonts = {
